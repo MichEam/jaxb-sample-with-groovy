@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample id="999999" name="hhhhhhh">
+	<person id="p001">
+		<seq>1</seq>
+		<name>foo</name>
+		<gender>female</gender>
+		<age>24</age>
+		<address>
+			<postcode>111-222</postcode>
+			<pref>Tokyo</pref>
+		</address>
+	</person>
+	<person id="p102">
+		<seq>2</seq>
+		<name>var</name>
+		<gender>male</gender>
+		<age>28</age>
+		<address>
+			<postcode>333-444</postcode>
+			<pref>Kanagawa</pref>
+		</address>
+		<address>
+			<postcode>333-555</postcode>
+			<pref>Kanagawa</pref>
+		</address>
+	</person>
+</sample>

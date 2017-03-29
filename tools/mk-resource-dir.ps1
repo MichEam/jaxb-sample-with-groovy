@@ -1,0 +1,9 @@
+mkdir src/main/java
+mkdir src/main/resources
+mkdir src/main/groovy
+mkdir src/test/java
+mkdir src/test/resources
+mkdir src/test/groovy
+mkdir src/sourceSet/java
+mkdir src/sourceSet/resources
+mkdir src/sourceSet/groovy
